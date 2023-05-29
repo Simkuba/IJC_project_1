@@ -8,3 +8,5 @@
 
 ## Evaluation:
 15/15
+
+#### Projekt slouží pouze jako inspirace, kopírovat kód silně nedoporučuji.
