@@ -1,4 +1,4 @@
-# First school project in the subject IJC
+# First school project in the subject IJC (C programming language)
 
 ## Implements:
 + data structure of bit array type
